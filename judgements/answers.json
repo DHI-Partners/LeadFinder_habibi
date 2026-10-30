@@ -1,0 +1,6188 @@
+{
+ "41a4167c2b36da0d": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.92,
+    "false": 0.08
+   },
+   "confidence": 0.84
+  }
+ },
+ "a0b417391bc6196f": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "24a5f714d824cca6": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "4717766c8f1dfa50": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.12,
+    "false": 0.88
+   },
+   "confidence": 0.76
+  }
+ },
+ "b43c5bd8a9ecb6be": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "9594c69d54c11a91": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "3c4c59b5b59705c7": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "f804ba98fa889fc3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "99d9c15e26c269cc": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "977c1c8498dcada2": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "f5b4a9701809e178": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.0,
+    "false": 1.0
+   },
+   "confidence": 1.0
+  }
+ },
+ "205ebb9f87368f8e": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.05,
+    "false": 0.95
+   },
+   "confidence": 0.9
+  }
+ },
+ "3fc68e8c485605f3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.95,
+    "false": 0.05
+   },
+   "confidence": 0.9
+  }
+ },
+ "3ed1e30a84145472": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.08,
+    "false": 0.92
+   },
+   "confidence": 0.84
+  }
+ },
+ "67f4b353389b0b40": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.85,
+    "false": 0.15
+   },
+   "confidence": 0.7
+  }
+ },
+ "ad8d6a54f5fcf2b0": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.01,
+    "false": 0.99
+   },
+   "confidence": 0.98
+  }
+ },
+ "ae59f86fef3b5479": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.0,
+    "false": 1.0
+   },
+   "confidence": 1.0
+  }
+ },
+ "60c5f55a58c61bf9": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.55,
+    "false": 0.45
+   },
+   "confidence": 0.1
+  }
+ },
+ "cf88917fc04b00c5": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.0,
+    "false": 1.0
+   },
+   "confidence": 1.0
+  }
+ },
+ "bc50042c8b2f8d84": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.0,
+    "false": 1.0
+   },
+   "confidence": 1.0
+  }
+ },
+ "e1c8d24e71a0d89c": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "97d4924281c4ff1f": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "5748393748a835b7": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "167abf9b7660d3b1": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "4b4405d0ffff71da": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "50cf954d34c4e7af": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "2f7c0c2ad7df122f": {
+  "fit": {
+   "type": "score",
+   "score": 0.7,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.3,
+    "2": 0.2
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "d0368cff7a44c92a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "663bbfee0a9503c9": {
+  "fit": {
+   "type": "score",
+   "score": 0.6,
+   "probabilities": {
+    "0": 0.6,
+    "1": 0.2,
+    "2": 0.2
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "7e921ffdf83a0c46": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "314028ab1d70a3c6": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "8f7a989212332320": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "50297a71e2d6bf9d": {
+  "fit": {
+   "type": "score",
+   "score": 0.9,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.1,
+    "2": 0.4
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "2750d20db4cdbf7f": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "50f420b21141c83e": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "97992454825ceb5f": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "d93e3c72bb0d80bc": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "4b7b662111e20dfe": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "e0b59a0219114b91": {
+  "fit": {
+   "type": "score",
+   "score": 1.8,
+   "probabilities": {
+    "0": 0.05,
+    "1": 0.1,
+    "2": 0.85
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "29b4c4eba12e9694": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "2c29fe28ee10ba6b": {
+  "fit": {
+   "type": "score",
+   "score": 0.7,
+   "probabilities": {
+    "0": 0.6,
+    "1": 0.1,
+    "2": 0.3
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "6f7a047dde705b71": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "64511693c3a48be3": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "9186f48b301c26bf": {
+  "fit": {
+   "type": "score",
+   "score": 0.5,
+   "probabilities": {
+    "0": 0.6,
+    "1": 0.3,
+    "2": 0.1
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "marketing_growth",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.8,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "ef1b29dbf3c0b9ca": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "7b4f1f285088d910": {
+  "fit": {
+   "type": "score",
+   "score": 0.9,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.1,
+    "2": 0.4
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "4fbf8080bdaec373": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "6d5c01a6301de7cd": {
+  "fit": {
+   "type": "score",
+   "score": 1.0,
+   "probabilities": {
+    "0": 0.2,
+    "1": 0.6,
+    "2": 0.2
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "1dd6a5de5a82fd54": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "4ad9855c2076e3ff": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "4d879425dd3f370e": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "e1dd51484fe1c138": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "c1b516a1dadb3a81": {
+  "fit": {
+   "type": "score",
+   "score": 0.8,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.2,
+    "2": 0.3
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "45c228e5db317de9": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "d084c9b64d41a5a7": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "c8a3ff27764eb587": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "fa35c4601a3ecd50": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "b26e990cf79d690e": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "4ef786470be109f4": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "47320802640be19d": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "8ceb15a07204b0f0": {
+  "fit": {
+   "type": "score",
+   "score": 1.1,
+   "probabilities": {
+    "0": 0.1,
+    "1": 0.7,
+    "2": 0.2
+   },
+   "confidence": 0.7
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "24d83714a2e77aeb": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "b1de00690b5dc3f4": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "3873eb2e7601a3f3": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "dca1e032820c9e33": {
+  "fit": {
+   "type": "score",
+   "score": 0.6,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.4,
+    "2": 0.1
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "marketing_growth",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.8,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "b511771996a02e2a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "307d063bc537f6de": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "477d1e6cc5f5112a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "0fe221c88e17ecd4": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "4103823e0c583d27": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "d77b95205cf56f43": {
+  "fit": {
+   "type": "score",
+   "score": 0.6,
+   "probabilities": {
+    "0": 0.6,
+    "1": 0.2,
+    "2": 0.2
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "5e0f25e6a935be82": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "d7965ff16ecae081": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "62dd411db1e23a84": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "930f07aedaa23a61": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "4b3b592e7934f3f6": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "eac63c868e038044": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "911e64a9fd8e4e4f": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "2b0536b15e5c7b22": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "eb9f1c7f03512fba": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "c3f384abeaa8a9fb": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "b650b000cedc984d": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "00574d9c0772bb3c": {
+  "fit": {
+   "type": "score",
+   "score": 1.5,
+   "probabilities": {
+    "0": 0.1,
+    "1": 0.3,
+    "2": 0.6
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "6bc3f424c285568f": {
+  "fit": {
+   "type": "score",
+   "score": 1.85,
+   "probabilities": {
+    "0": 0.05,
+    "1": 0.05,
+    "2": 0.9
+   },
+   "confidence": 0.9
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "e1d6c54aaee07e64": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "0f5538d8ccbc490c": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "9673c46dae4c76b6": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "47e8e009f4345e02": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "322505a07988d966": {
+  "fit": {
+   "type": "score",
+   "score": 1.3,
+   "probabilities": {
+    "0": 0.15,
+    "1": 0.4,
+    "2": 0.45
+   },
+   "confidence": 0.45
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "c997e63609c59f05": {
+  "fit": {
+   "type": "score",
+   "score": 1.6,
+   "probabilities": {
+    "0": 0.1,
+    "1": 0.2,
+    "2": 0.7
+   },
+   "confidence": 0.7
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "52b913280b9c787a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "805ad4a49fe20230": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "21b8045830a6369d": {
+  "fit": {
+   "type": "score",
+   "score": 0.5,
+   "probabilities": {
+    "0": 0.7,
+    "1": 0.1,
+    "2": 0.2
+   },
+   "confidence": 0.7
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "4a3866650e3be209": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "f67437db167a622a": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "2bc0f432bbdf9ea6": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "7f8fbec5ce191f39": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "a6376c95a678bec8": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "38e5a3031b285748": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "3c5ed6c83f0cc194": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "c3b9d9585af3c9f1": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "2d8df6a4ca5f0835": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "a3a48f291a087ee7": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "1ea06e64d4e4e922": {
+  "fit": {
+   "type": "score",
+   "score": 1.0,
+   "probabilities": {
+    "0": 0.4,
+    "1": 0.2,
+    "2": 0.4
+   },
+   "confidence": 0.4
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "70eb8a0ed69ddc5d": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "cbccbc970a4edfa6": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "e3ef28ff2434fb5f": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "5dd0c4fa7bf2fc1a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "8da5dbcf0fa9bc05": {
+  "fit": {
+   "type": "score",
+   "score": 1.3,
+   "probabilities": {
+    "0": 0.1,
+    "1": 0.5,
+    "2": 0.4
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "2e4faab4474152f4": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "e2cf27b8795892d3": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "5f53f61a8101d333": {
+  "fit": {
+   "type": "score",
+   "score": 1.8,
+   "probabilities": {
+    "0": 0.05,
+    "1": 0.1,
+    "2": 0.85
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "c24dd0195c100fa1": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "e631daf973f10590": {
+  "fit": {
+   "type": "score",
+   "score": 1.8,
+   "probabilities": {
+    "0": 0.05,
+    "1": 0.1,
+    "2": 0.85
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "6c210f510125d7b2": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "dfd3e630c8172a0c": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "658dd5e0a63e2688": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "9463057ab1f27d7b": {
+  "fit": {
+   "type": "score",
+   "score": 1.2,
+   "probabilities": {
+    "0": 0.3,
+    "1": 0.2,
+    "2": 0.5
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "f81a8461ca994910": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "068a4a7aee0b6046": {
+  "fit": {
+   "type": "score",
+   "score": 0.5,
+   "probabilities": {
+    "0": 0.6,
+    "1": 0.3,
+    "2": 0.1
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "marketing_growth",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.8,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "decf423eebbb44c1": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "60c574cec8454e71": {
+  "fit": {
+   "type": "score",
+   "score": 0.45,
+   "probabilities": {
+    "0": 0.75,
+    "1": 0.05,
+    "2": 0.2
+   },
+   "confidence": 0.75
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "5a4cd418c77694ea": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "8674afe5f651f3da": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "a68d11a99a29f5e0": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "ff964c2f72725d36": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "ecfd159666764033": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "e24e0bf9e1eaae9d": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "290ede3105b7ae7d": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "0a620a90b5918f65": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "801ff63781b5bd18": {
+  "fit": {
+   "type": "score",
+   "score": 0.7,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.3,
+    "2": 0.2
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "e90406e006b36b5b": {
+  "fit": {
+   "type": "score",
+   "score": 1.0,
+   "probabilities": {
+    "0": 0.4,
+    "1": 0.2,
+    "2": 0.4
+   },
+   "confidence": 0.4
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "b0c045256f7c5008": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "f5cc977d44a88d17": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "84db33eb1ce51355": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "408d725a01296f69": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "0c00f707c2fea5fc": {
+  "fit": {
+   "type": "score",
+   "score": 0.85,
+   "probabilities": {
+    "0": 0.3,
+    "1": 0.55,
+    "2": 0.15
+   },
+   "confidence": 0.55
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "ebaf972203911899": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "a61e151567a25b1b": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "31201a1e03b382da": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "0982b5e9d2bc952d": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "9a30885d7c2ef32d": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "b2093bf884f60b61": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "518d24f7a90010bb": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "94797b4603dffcd3": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "faac067a3e7f42d1": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "3c065055270896fb": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "cf676b95a3140b51": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "f0eb1cf079b7d5f2": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "07b269fa4addaf6c": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "a77e7540fa379f91": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "cc0aa63aba2f86c6": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "dff7e759e8f76e69": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "824b966f29fc2e86": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "d00c8a0017609516": {
+  "fit": {
+   "type": "score",
+   "score": 0.5,
+   "probabilities": {
+    "0": 0.7,
+    "1": 0.1,
+    "2": 0.2
+   },
+   "confidence": 0.7
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "530f2655310df20a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "42c84b49c658ade0": {
+  "fit": {
+   "type": "score",
+   "score": 0.8,
+   "probabilities": {
+    "0": 0.5,
+    "1": 0.2,
+    "2": 0.3
+   },
+   "confidence": 0.5
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "25aac54b65240e06": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "58ee0dbd93a449dd": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "a9798c3a3a7997b5": {
+  "fit": {
+   "type": "score",
+   "score": 1.87,
+   "probabilities": {
+    "0": 0.03,
+    "1": 0.07,
+    "2": 0.9
+   },
+   "confidence": 0.9
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "1883854118049e9a": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "623783c0b75f086c": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "0eb9942cfe6b0825": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "624ae9da7fd82ab5": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.85,
+    "false": 0.15
+   },
+   "confidence": 0.7
+  }
+ },
+ "b81f9b37e9f744bd": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.3,
+    "false": 0.7
+   },
+   "confidence": 0.4
+  }
+ },
+ "dcaad8fe173e52d7": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "585acc35942648bc": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.85,
+    "false": 0.15
+   },
+   "confidence": 0.7
+  }
+ },
+ "c1bb5865ef3710f3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "f04dcff1ad217b17": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.35,
+    "false": 0.65
+   },
+   "confidence": 0.3
+  }
+ },
+ "9f05a653e8ef45ba": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "1de5cca128b1b1aa": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.3,
+    "false": 0.7
+   },
+   "confidence": 0.4
+  }
+ },
+ "d4406f2f2db2421e": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.75,
+    "false": 0.25
+   },
+   "confidence": 0.5
+  }
+ },
+ "6492a3a73bb2a2e3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "483658dae04fe75c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "816a7617c631997a": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.4,
+    "false": 0.6
+   },
+   "confidence": 0.2
+  }
+ },
+ "8f2f1e6e06344104": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "17b5ff945fccbf00": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "1e36f1d8534c4791": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "c8bfe604af518ce9": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.15,
+    "false": 0.85
+   },
+   "confidence": 0.7
+  }
+ },
+ "7f702b833669f0af": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.9,
+    "false": 0.1
+   },
+   "confidence": 0.8
+  }
+ },
+ "6b9b192467307ca1": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.4,
+    "false": 0.6
+   },
+   "confidence": 0.2
+  }
+ },
+ "e2a6e824738088f7": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "01d52955b5e65c1c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "9dff5c81689900c9": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "1d4cda0ad4938128": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "36d8af3f162360e5": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "3ac4e076dca4983b": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "87f37dd61ec93ed0": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "d8de7b53a005ee55": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "bd722137e21512bb": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.9,
+    "false": 0.1
+   },
+   "confidence": 0.8
+  }
+ },
+ "5db6e370f7c42e38": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "dc82efb289a43c0c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.9,
+    "false": 0.1
+   },
+   "confidence": 0.8
+  }
+ },
+ "d6d44aacc4a7f4b9": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.25,
+    "false": 0.75
+   },
+   "confidence": 0.5
+  }
+ },
+ "ff3fb6c99c1fd35f": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.8,
+    "false": 0.2
+   },
+   "confidence": 0.6
+  }
+ },
+ "62097a0e830e5bf1": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.2,
+    "false": 0.8
+   },
+   "confidence": 0.6
+  }
+ },
+ "251af691087385b2": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "38b31d02b163cd0c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "910f6bf2b2a8ef45": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "302fc9e33ba0c0c6": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "0c8224a83c16e252": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "de17b5ddb6746597": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "518828e9c7d8d6f2": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.03,
+    "false": 0.97
+   },
+   "confidence": 0.94
+  }
+ },
+ "9950b09a658fdd12": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "ab55943462bee5e4": {
+  "fit": {
+   "type": "score",
+   "score": 0.9,
+   "probabilities": {
+    "0": 0.25,
+    "1": 0.6,
+    "2": 0.15
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "b78297358aa4fd67": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "935033317b94defe": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "e86064a0ada58563": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "c3a04e9c64e4646d": {
+  "fit": {
+   "type": "score",
+   "score": 0.95,
+   "probabilities": {
+    "0": 0.45,
+    "1": 0.15,
+    "2": 0.4
+   },
+   "confidence": 0.45
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "2224f090ed974450": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "82dbfab8c1d28661": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "f12cf4b18d7d4e1d": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "8d736ab813e21937": {
+  "fit": {
+   "type": "score",
+   "score": 1.25,
+   "probabilities": {
+    "0": 0.3,
+    "1": 0.15,
+    "2": 0.55
+   },
+   "confidence": 0.55
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "928417d05d0fd53a": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "6edd111aed9d2601": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "4ef784ae7fbccb8a": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "070a9d9702b909c8": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "380fb5476119eff9": {
+  "fit": {
+   "type": "score",
+   "score": 1.45,
+   "probabilities": {
+    "0": 0.2,
+    "1": 0.15,
+    "2": 0.65
+   },
+   "confidence": 0.65
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "f4c2b586ac5908cd": {
+  "fit": {
+   "type": "score",
+   "score": 1.87,
+   "probabilities": {
+    "0": 0.03,
+    "1": 0.07,
+    "2": 0.9
+   },
+   "confidence": 0.9
+  },
+  "role": {
+   "type": "choice",
+   "choice": "owner_founder",
+   "probabilities": {
+    "owner_founder": 0.8,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "6914c7bd59e5b79e": {
+  "fit": {
+   "type": "score",
+   "score": 0.5,
+   "probabilities": {
+    "0": 0.6,
+    "1": 0.3,
+    "2": 0.1
+   },
+   "confidence": 0.6
+  },
+  "role": {
+   "type": "choice",
+   "choice": "restaurant_ops",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.8,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "56304832cfb4eefc": {
+  "fit": {
+   "type": "score",
+   "score": 0.75,
+   "probabilities": {
+    "0": 0.55,
+    "1": 0.15,
+    "2": 0.3
+   },
+   "confidence": 0.55
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "bd6d563ed0f91131": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "fafa92ca7ad0ee35": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "9592fe0f953b93c3": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "165055866ddbf9d2": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "e8758a76eed55436": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "f946a06b555f5bf8": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "9eb09c6c8a400edb": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "90ead7e96b996943": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "c3c8e24f271bd4b0": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "52c3e312dc9d4c62": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "bb50777bfa7620be": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "1828448d968a3800": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "5e57d455474f4229": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "163e4920af6391de": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "4f4439d33b9c51da": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "102816f4397aaa80": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "970432642af73cbe": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.15,
+    "false": 0.85
+   },
+   "confidence": 0.7
+  }
+ },
+ "2f689b5307bf41d5": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "21eb3fd790b78d2a": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "bb5053f412bcffdf": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "53a1a27aed11da45": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "2a23a616e3256926": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "cbee3c7fadb8d8c2": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "215afaf1829148e3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.5,
+    "false": 0.5
+   },
+   "confidence": 0.0
+  }
+ },
+ "06cf1519a204ab33": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "e72b0870a423234f": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "1a9b16f58f81758c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "bae1bfcbd7edad9c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.2,
+    "false": 0.8
+   },
+   "confidence": 0.6
+  }
+ },
+ "e42e6f121c038ce7": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "9bf58e7408bc42ab": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "25708039c609b265": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "883460b4d5db31b8": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "b256664fdd2fea4f": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "83cac5d330d1cbcf": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "ebdc5bfede75e757": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "0f268a991e1cf13a": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.9,
+    "false": 0.1
+   },
+   "confidence": 0.8
+  }
+ },
+ "73059dbfc7c831fb": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "8388783d66e7877e": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.45,
+    "false": 0.55
+   },
+   "confidence": 0.1
+  }
+ },
+ "c0303831547997ee": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "b86fd71c62fb95d6": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.72,
+    "false": 0.28
+   },
+   "confidence": 0.44
+  }
+ },
+ "8fdc272d802a2503": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "9f05aa13d787fe58": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "214f73bc96ce8547": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.3,
+    "false": 0.7
+   },
+   "confidence": 0.4
+  }
+ },
+ "6f8e2ac9a05bb5fa": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "1d2139e26e6ac8ee": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "6a4d46c9d825a1a4": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "b3d4c18327ab2697": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "bc7ff10ab6491f42": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "2466e768c839aea1": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "ffad2035d4b16143": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "535d9c3e5e2f6f23": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "72dac1cd5caca763": {
+  "fit": {
+   "type": "score",
+   "score": 0.4,
+   "probabilities": {
+    "0": 0.7,
+    "1": 0.2,
+    "2": 0.1
+   },
+   "confidence": 0.7
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "6745f69090f2cf60": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "13053d4eedef7511": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "d8c94c85fa1b901e": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "9a8650f42c26bb11": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "5cfcf534c2043819": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "f74fc86a4030c8d3": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "eb39756bd6e0f55a": {
+  "fit": {
+   "type": "score",
+   "score": 0.28,
+   "probabilities": {
+    "0": 0.8,
+    "1": 0.12,
+    "2": 0.08
+   },
+   "confidence": 0.8
+  },
+  "role": {
+   "type": "choice",
+   "choice": "agency_freelancer",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.8,
+    "vendor": 0.04,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "9161dc5c0519a7d2": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "0a66c2cdc7fe6015": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "70f5d4a5b17da80c": {
+  "fit": {
+   "type": "score",
+   "score": 0.6,
+   "probabilities": {
+    "0": 0.55,
+    "1": 0.3,
+    "2": 0.15
+   },
+   "confidence": 0.55
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "0185ca7025eccf07": {
+  "fit": {
+   "type": "score",
+   "score": 0.1,
+   "probabilities": {
+    "0": 0.92,
+    "1": 0.06,
+    "2": 0.02
+   },
+   "confidence": 0.92
+  },
+  "role": {
+   "type": "choice",
+   "choice": "other",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.04,
+    "other": 0.8
+   },
+   "confidence": 0.8
+  }
+ },
+ "b0dcbff1f18a77b9": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "8287f07a9edb35be": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "8258894895143201": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "d5450855f8c02179": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "9efb6d417e371b20": {
+  "fit": {
+   "type": "score",
+   "score": 0.25,
+   "probabilities": {
+    "0": 0.85,
+    "1": 0.05,
+    "2": 0.1
+   },
+   "confidence": 0.85
+  },
+  "role": {
+   "type": "choice",
+   "choice": "vendor",
+   "probabilities": {
+    "owner_founder": 0.04,
+    "restaurant_ops": 0.04,
+    "marketing_growth": 0.04,
+    "agency_freelancer": 0.04,
+    "vendor": 0.8,
+    "other": 0.04
+   },
+   "confidence": 0.8
+  }
+ },
+ "884b00bf24502418": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "f04dc05d5ad3abd3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "b3a5652a11ce7658": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "86768b442cc14a97": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "6607995ac0d64051": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.2,
+    "false": 0.8
+   },
+   "confidence": 0.6
+  }
+ },
+ "a43c3c3227b9b37b": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "3a684dad0970207a": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.4,
+    "false": 0.6
+   },
+   "confidence": 0.2
+  }
+ },
+ "f6276ecef621572c": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "bc82bb81318aa6b3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.5,
+    "false": 0.5
+   },
+   "confidence": 0.0
+  }
+ },
+ "aaa7d9597ddf4696": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "adae8c18e17182c6": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "14fe159b0f5f361f": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "a99e059a78651231": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "d8980b517af127bd": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "7c714b868776a1e2": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "d95ae0ead5cb7936": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "a8d711aa67759fd8": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "d10e7f69277fb4cb": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "716256990f04f562": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "a42c15583d0912d3": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "b164b04c170deee0": {
+  "about_topic": {
+   "type": "boolean",
+   "value": true,
+   "probabilities": {
+    "true": 0.55,
+    "false": 0.45
+   },
+   "confidence": 0.1
+  }
+ },
+ "c1acbe0b5ed4d70a": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "4f7c88cb77c1af72": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "a1bfcf1557cf7e96": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "6a58d1040e0b10c8": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "2bc9b8a89deee645": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "577bee08731d2579": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "085dd5b0a8683acd": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ },
+ "5ac5267c76e730e8": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.2,
+    "false": 0.8
+   },
+   "confidence": 0.6
+  }
+ },
+ "99f941ba5f63fb32": {
+  "about_topic": {
+   "type": "boolean",
+   "value": false,
+   "probabilities": {
+    "true": 0.02,
+    "false": 0.98
+   },
+   "confidence": 0.96
+  }
+ }
+}
